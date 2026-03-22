@@ -147,8 +147,7 @@ Data cleaning and transformation
 Interactive dashboard design
 
 📁 Repository Structure
-Code
-├── data/                     # Raw dataset (if included)
+Code            
 ├── pbix/                     # Power BI file
 ├── visuals/                  # Dashboard screenshots
 ├── documentation/            # Project report or notes
